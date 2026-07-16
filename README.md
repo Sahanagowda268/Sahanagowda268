@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Sahana K
 
-<!--
-**Sahanagowda268/Sahanagowda268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.E. Student in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+💻 Java Full Stack Developer | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Currently learning Java Full Stack Development
+- 🤖 Interested in AI-powered applications
+- 💻 Passionate about Backend Development
+- 📍 Bengaluru, India
+
+## Tech Stack
+- Java
+- Spring Boot
+- JDBC
+- Servlets
+- JSP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git & GitHub
+
+## Featured Projects
+### 🛍️ FashionStore
+Full-stack e-commerce application built using Java, Servlets, JSP, JDBC, and MySQL.
+
+### 🏛️ CivicFix
+A citizen issue reporting platform developed using Java Spring Boot and React.
+
+### 🤖 Aikyra
+AI-powered intelligent assistant for task automation and productivity.
+
+## Connect with Me
+- LinkedIn: (your LinkedIn URL)
+- Email: (your email)

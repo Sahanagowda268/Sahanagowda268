@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sahana K
 
-🎓 Final Year B.E. Student in Artificial Intelligence & Data Science
+🎓 B.E Graduate in Artificial Intelligence & Data Science
 
 💻 Java Full Stack Developer | AI Enthusiast
 

@@ -34,5 +34,5 @@ A citizen issue reporting platform developed using Java Spring Boot and React.
 AI-powered intelligent assistant for task automation and productivity.
 
 ## Connect with Me
-- LinkedIn: (your LinkedIn URL)
-- Email: (your email)
+- LinkedIn: www.linkedin.com/in/sahanak-developer
+- Email: sahanakgowda268@gmail.com
